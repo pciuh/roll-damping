@@ -1,6 +1,6 @@
 # Roll Damping Coefficient Estimation Script
 
-This repository contains a Python script (roll_damp.py) that estimates the roll damping coefficient using the IKEA method.
+This repository contains a Python script (roll_damp.py) that estimates the roll damping coefficient using the Ikeda method.
 
 ## Overview
 
