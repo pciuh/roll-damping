@@ -1,6 +1,8 @@
 # Roll Damping Coefficient Estimation Script
 
-This repository contains a Python script (roll_damp.py) that estimates the roll damping coefficient using the Ikeda method. The script was written according to paper presented in *10th International Conference on Stability of Ships and Ocean Vehicles**. Reference to the paper:
+This repository contains a Python script (roll_damp.py) that estimates the roll damping coefficient using the Ikeda method. The script was written according to paper presented in *10th International Conference on Stability of Ships and Ocean Vehicles*. 
+
+Reference to the paper:
 
 *Kawahara, Y., Maekawa, K., Ikeda, Y. (2011). A Simple Prediction Formula of Roll Damping of Conventional Cargo Ships on the Basis of Ikeda’s Method and Its Limitation. In: Almeida Santos Neves, M., Belenky, V., de Kat, J., Spyrou, K., Umeda, N. (eds) Contemporary Ideas on Ship Stability and Capsizing in Waves. Fluid Mechanics and Its Applications, vol 97. Springer, Dordrecht. [https://doi.org/10.1007/978-94-007-1482-3_26](https://doi.org/10.1007/978-94-007-1482-3_26)*
 
