@@ -3,9 +3,9 @@ Damping coefficients components acc. to IKEDA method with further improvements
 
 Kawahara, Y., Maekawa, K., Ikeda, Y. (2011). A Simple Prediction Formula of Roll Damping of Conventional Cargo Ships on the Basis of Ikeda’s Method and Its Limitation. In: Almeida Santos Neves, M., Belenky, V., de Kat, J., Spyrou, K., Umeda, N. (eds) Contemporary Ideas on Ship Stability and Capsizing in Waves. Fluid Mechanics and Its Applications, vol 97. Springer, Dordrecht. https://doi.org/10.1007/978-94-007-1482-3_26
 
-
 '''
 import numpy as np
+
 def bilke(cb,cm,ogd,brth,bbk,lbk,lpp,t,phi,tw):
     G    = 9.80665
     bd   = brth/t
