@@ -11,3 +11,4 @@ roll_damp-kopia.py
 !roll_damp.py
 !ship.csv
 ship.numbers
+venv/
