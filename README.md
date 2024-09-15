@@ -8,7 +8,7 @@ Reference to the paper:
 
 ## Overview
 
-Roll damping is an important factor in naval architecture and marine engineering, influencing the stability of a ship in the water. This script leverages the IKEA method to compute the roll damping coefficient, a key parameter in assessing the rolling motion of a vessel.
+Roll damping is an important factor in naval architecture and marine engineering, influencing the stability of a ship in the water. This script leverages the Ikeda method to compute the roll damping coefficient, a key parameter in assessing the rolling motion of a vessel.
 
 ## Features
 
