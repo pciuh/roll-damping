@@ -29,11 +29,11 @@ To use the script, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/your-username/roll-damping.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd repo-name
+cd roll-damping
 ```
 
 3. Run the script:
