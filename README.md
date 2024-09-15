@@ -33,7 +33,7 @@ To use the script, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/roll-damping.git
+git clone https://github.com/pciuh/roll-damping.git
 ```
 2. Navigate to the project directory:
 ```bash
