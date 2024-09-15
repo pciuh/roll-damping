@@ -18,9 +18,10 @@ Ensure that you have the following installed:
 
 Python 3.x
 Required Python libraries (install using the command below)
+```
 bash
-Skopiuj kod
 pip install -r requirements.txt
+```
 
 ## Usage
 
