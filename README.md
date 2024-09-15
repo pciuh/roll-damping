@@ -1,6 +1,6 @@
 # Roll Damping Coefficient Estimation Script
 
-This repository contains a Python script (roll_damp.py) that estimates the roll damping coefficient using the IKEA method, as described in the paper presented at the **10th International Conference on Stability of Ships and Ocean Vehicles**.
+This repository contains a Python script (`roll_damp.py`) that estimates the roll damping coefficient using the IKEA method, as described in the paper presented at the **10th International Conference on Stability of Ships and Ocean Vehicles**.
 
 Reference to the paper:
 
