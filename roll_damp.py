@@ -20,11 +20,18 @@ import matplotlib.pyplot as plt
 
 iDir = 'input/'
 oDir = 'output/'
+cMap = 'GnBu_r'
 
-cMap = 'PuRd'
-rho,G = 1025.9,9.80665
 
 fnam = 'ship'
+
+##### Define Computations Domain
+VS = np.arange(0,25,2)  #### Vector of speeds, knots
+phi = np.arange(1,20,2) #### Vector of roll angles, degrees
+
+##### Default Enviromental Conditions
+rho,G = 1025.9,9.80665
+
 df = pd.read_csv(iDir + fnam+'.csv',index_col=0)
 
 df = df.fillna(0)
@@ -32,9 +39,6 @@ print(df)
 
 lpp,brth,t,cb,cm,KG,tw,lbk,bbk = df['Value'].values
 
-##### Define Conditions
-VS = np.arange(0,25,2)  #### Vector of speeds
-phi = np.arange(1,20,2) #### Vector of roll angles
 
 ogd = 1-KG/t
 b44,b44d = [],[]
